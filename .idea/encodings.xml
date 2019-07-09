@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Sentinel/sentinel-demo-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Skywalking/dubbo-trace-example/dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Skywalking/dubbo-trace-example/dubbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-autoconfigure" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-compatible" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-compatible/actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-compatible/autoconfigure" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-distribution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/auto-configure-samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/auto-configure-samples/consumer-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/auto-configure-samples/provider-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/dubbo-registry-zookeeper-samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/dubbo-registry-zookeeper-samples/consumer-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/dubbo-registry-zookeeper-samples/provider-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/externalized-configuration-samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/externalized-configuration-samples/consumer-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/externalized-configuration-samples/provider-sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-samples/sample-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Dubbo-实战-Springboot/dubbo-spring-boot-project-2.7.1/dubbo-spring-boot-starter" charset="UTF-8" />
+  </component>
+</project>

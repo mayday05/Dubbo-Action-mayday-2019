@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-consumer" />
+        <module name="dubbo-interfaces" />
+        <module name="dubbo-provider" />
+        <module name="dubbo-spring-boot-actuator" />
+        <module name="dubbo-spring-boot-actuator-compatible" />
+        <module name="dubbo-spring-boot-auto-configure-consumer-sample" />
+        <module name="dubbo-spring-boot-auto-configure-provider-sample" />
+        <module name="dubbo-spring-boot-autoconfigure" />
+        <module name="dubbo-spring-boot-autoconfigure-compatible" />
+        <module name="dubbo-spring-boot-externalized-configuration-consumer-sample" />
+        <module name="dubbo-spring-boot-externalized-configuration-provider-sample" />
+        <module name="dubbo-spring-boot-registry-zookeeper-consumer-sample" />
+        <module name="dubbo-spring-boot-registry-zookeeper-provider-sample" />
+        <module name="dubbo-spring-boot-sample-api" />
+        <module name="dubbo-spring-boot-starter" />
+        <module name="sentinel-demo-dubbo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-interfaces" target="1.8" />
+      <module name="dubbo-provider" target="1.8" />
+      <module name="dubbo-spring-boot-actuator" target="1.8" />
+      <module name="dubbo-spring-boot-actuator-compatible" target="1.8" />
+      <module name="dubbo-spring-boot-auto-configure-consumer-sample" target="1.8" />
+      <module name="dubbo-spring-boot-auto-configure-provider-sample" target="1.8" />
+      <module name="dubbo-spring-boot-auto-configure-samples" target="1.8" />
+      <module name="dubbo-spring-boot-autoconfigure" target="1.8" />
+      <module name="dubbo-spring-boot-autoconfigure-compatible" target="1.8" />
+      <module name="dubbo-spring-boot-compatible" target="1.8" />
+      <module name="dubbo-spring-boot-distribution" target="1.8" />
+      <module name="dubbo-spring-boot-externalized-configuration-consumer-sample" target="1.8" />
+      <module name="dubbo-spring-boot-externalized-configuration-provider-sample" target="1.8" />
+      <module name="dubbo-spring-boot-externalized-configuration-samples" target="1.8" />
+      <module name="dubbo-spring-boot-parent" target="1.8" />
+      <module name="dubbo-spring-boot-project" target="1.8" />
+      <module name="dubbo-spring-boot-registry-zookeeper-consumer-sample" target="1.8" />
+      <module name="dubbo-spring-boot-registry-zookeeper-provider-sample" target="1.8" />
+      <module name="dubbo-spring-boot-registry-zookeeper-samples" target="1.8" />
+      <module name="dubbo-spring-boot-sample-api" target="1.8" />
+      <module name="dubbo-spring-boot-samples" target="1.8" />
+      <module name="dubbo-spring-boot-starter" target="1.8" />
+      <module name="sentinel-demo-dubbo" target="1.8" />
+      <module name="tracing-dubbo-example" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
